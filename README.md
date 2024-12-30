@@ -15,5 +15,8 @@ This simple app was built using JavaScript, React.js and React Bootstrap, as an 
 - Loading Patterns
 - React Composition (Passing JSX as children)
 
+You can test it following this link:
+https://catoftheday.netlify.app
+
 Thanks for viewing it!
 Alex and Zeineb
